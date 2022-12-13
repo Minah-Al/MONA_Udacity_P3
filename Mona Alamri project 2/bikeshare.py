@@ -1,3 +1,5 @@
+# Hello , this is project 2 of my Udacity course in programing for data science. 
+# now i am updating these changes in github repo. 
 import time
 import pandas as pd
 import numpy as np
